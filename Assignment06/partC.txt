@@ -1,0 +1,4 @@
+Let's play around with process:
+clear a log file of running process
+delete a log file of running process and see what happens to process
+elevate the priority of a process
